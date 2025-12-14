@@ -1,6 +1,6 @@
 <template>
     <div>
-        <!-- Hero Section 0a5fa8, TOGETHER WE CAN CHANGE THE WORLD -->
+        <!-- Hero Section 0a5fa8, old tagline=TOGETHER WE CAN CHANGE THE WORLD -->
         <section
             class="relative bg-[#063d73] text-white overflow-hidden py-24 2xl:py-40"
         >
