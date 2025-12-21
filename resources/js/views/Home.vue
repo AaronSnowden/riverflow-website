@@ -101,7 +101,7 @@
                     <div
                         class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center"
                     >
-                        <!-- Content -->
+                        <!-- Contents -->
                         <div class="space-y-6">
                             <div class="space-y-4">
                                 <span

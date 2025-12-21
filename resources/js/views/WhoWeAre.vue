@@ -1,3 +1,4 @@
+<!-- about us page -->
 <template>
     <div>
         <!-- Hero Section with Background -->
