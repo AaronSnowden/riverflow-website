@@ -3,7 +3,7 @@
     <div>
         <!-- Hero Section with Background -->
         <section class="relative bg-primary py-32 overflow-hidden">
-            <!-- Background Image -->
+            <!-- Background Image with overlay -->
             <div class="absolute inset-0">
                 <img
                     src="/images/hero1.jpg"
